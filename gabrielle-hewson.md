@@ -3,3 +3,4 @@
      - [ ] Los Angeles
      - [ ] 100% Plant-Based
      - [ ] Volleyball
+**Favorite Color** Plum
